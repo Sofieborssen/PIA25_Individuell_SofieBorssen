@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+env/
+*.egg-info/
+dist/
+build/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# macOS
+.DS_Store
+
+# Miljövariabler
+.env
+.env.local
+.env.*.local
+
+# Databas
+*.db
+*.sqlite
+
+# Logs
+*.log
+
+# IDE
+.idea/
+*.swp
+*.swo
+*~
+
